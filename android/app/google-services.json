@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986929755468",
+    "project_id": "autism-screening-66c19",
+    "storage_bucket": "autism-screening-66c19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986929755468:android:1b4b61f7f7ed550599cbe9",
+        "android_client_info": {
+          "package_name": "com.example.autism_screening_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT12Slnm4np057aURhkiVke3obHkF1gpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
